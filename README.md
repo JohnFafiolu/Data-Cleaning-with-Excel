@@ -6,6 +6,10 @@ The dirty dataset which I got from Kaggle contains over 2,000 job listings for d
 - Company Rating: Employer ratings from current and former employees.
 - Job Description: Detailed requirements and responsibilities for each role.
 - [Get Dataset Here](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs)
+
+[DataAnalyst.csv](https://github.com/user-attachments/files/18228269/DataAnalyst.csv)
+
+
 ### Tool Used
 - MS Excel
 - Power Query
