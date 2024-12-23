@@ -7,6 +7,9 @@ The dirty dataset which I got from Kaggle contains over 2,000 job listings for d
 - Job Description: Detailed requirements and responsibilities for each role.
 - [Get Dataset Here](https://www.kaggle.com/datasets/andrewmvd/data-analyst-jobs)
 
+
+![Screenshot 2024-12-23 111639](https://github.com/user-attachments/assets/0b284e05-e1fe-4d00-a2c3-9c2199bab8cc)
+
 ### Tool Used
 - MS Excel
 - Power Query
